@@ -1,5 +1,5 @@
 # Ruby
-Guide for Ruby On Rails
+Guide for Ruby
 
 System Used:  Ubuntu 20.04 LTS 
 
